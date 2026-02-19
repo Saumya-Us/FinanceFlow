@@ -1,4 +1,4 @@
-# 💰 FinanceFlow
+# 💰 FinanceFlow 
 
 A beautiful and intuitive personal finance management application built with **Streamlit** and **SQLite**. Track your income, expenses, and visualize your spending patterns with interactive charts and analytics.
 
